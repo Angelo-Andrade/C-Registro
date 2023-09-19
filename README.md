@@ -4,3 +4,5 @@ Por: Lucas Nascimento, Alan Rocha, Tenzin Disaro, Matheus Lopes e Henrique Ânge
 
 Logistics registration (Project Management college project).
 By: Lucas Nascimento, Alan Rocha, Tenzin Disaro, Matheus Lopes and Henrique Ângelo.
+
+This version of the project was written in C language.
