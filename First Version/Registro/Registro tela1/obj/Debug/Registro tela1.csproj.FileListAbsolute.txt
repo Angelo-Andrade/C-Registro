@@ -1,0 +1,14 @@
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\Registro tela1.exe.config
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\Registro tela1.exe
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\Registro tela1.pdb
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\MetroFramework.dll
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.csproj.AssemblyReference.cache
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro_tela1.Form1.resources
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro_tela1.Properties.Resources.resources
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.csproj.GenerateResource.cache
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.csproj.CoreCompileInputs.cache
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.csproj.CopyComplete
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.exe
+C:\Users\Tenzin\Desktop\Trabalho_extensão\First Version\Registro\Registro tela1\obj\Debug\Registro tela1.pdb
