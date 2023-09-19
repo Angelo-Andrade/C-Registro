@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace Registro_tela1
 {
-    public partial class Form1 : MetroFramework.Forms.MetroForm
+    public partial class Form1 : Form
     {
         public Form1()
         {
@@ -43,6 +43,11 @@ namespace Registro_tela1
         }
 
         private void metroLabel1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroPanel1_Paint(object sender, PaintEventArgs e)
         {
 
         }
