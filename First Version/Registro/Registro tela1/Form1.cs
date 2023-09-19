@@ -41,5 +41,10 @@ namespace Registro_tela1
         {
 
         }
+
+        private void metroLabel1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
